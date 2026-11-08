@@ -6,6 +6,8 @@ Chytej pytle do tašky ve čtyřech pozicích. Pytel s dolary přidá 1 bod, vz�
 
 ## Spuštění
 
+**[Stáhnout Windows x64 verzi v1.0.0](https://github.com/matrixgp/GTA6_Retro_LCD/releases/latest)** – rozbal ZIP a spusť EXE.
+
 Hotová Windows x64 verze obsahuje všechna data v jediném souboru `GTA6_Elektronika.exe`. Godot ani instalace nejsou potřeba. Balíček pro distribuci: `GTA6_Elektronika_Windows_x64.zip`.
 
 ## Ovládání
