@@ -1,0 +1,26 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# Local backups and build output
+/backup/
+/codex_backups/
+/dist/
+/.export_tools/templates/
+/.export_tools/*.tpz
+/.export_tools/*.log
+/.export_tools/*.png
+/.export_tools/*.wav
+
+# Generated test previews
+/tests/*.log
+/tests/*.png
+/tests/*.wav
+*.import
+
+# Local credentials and editor settings
+.env
+.env.*
+.godot/export_credentials.cfg
+.vscode/
+.idea/

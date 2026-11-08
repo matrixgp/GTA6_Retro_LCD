@@ -1,0 +1,21 @@
+[gd_scene format=3 uid="uid://bahsxx6jbv7en"]
+
+[ext_resource type="Script" uid="uid://b71ph282xqufp" path="res://main.gd" id="1_ig7tw"]
+[ext_resource type="Texture2D" uid="uid://btwmxklcmd3lu" path="res://assets/graphics/retro_device_clean.png" id="2_0xm2m"]
+[ext_resource type="Script" uid="uid://dtrks4p2tibi3" path="res://lcd_screen.gd" id="3_h2yge"]
+[ext_resource type="Script" uid="uid://6prw4hxwcsp6" path="res://game_logic.gd" id="4_1bvp3"]
+
+[node name="Main" type="Node2D" unique_id=1648424345]
+script = ExtResource("1_ig7tw")
+
+[node name="RetroDevice" type="Sprite2D" parent="." unique_id=859832975]
+position = Vector2(640, 400)
+scale = Vector2(0.78, 0.78)
+texture = ExtResource("2_0xm2m")
+
+[node name="LCDScreen" type="Node2D" parent="." unique_id=1869889533]
+z_index = 1
+script = ExtResource("3_h2yge")
+
+[node name="GameLogic" type="Node2D" parent="." unique_id=1882389795]
+script = ExtResource("4_1bvp3")
