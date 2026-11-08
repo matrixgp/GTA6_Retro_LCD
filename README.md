@@ -4,6 +4,8 @@ Retro LCD hra inspirovaná kapesními hrami z 80. let, vytvořená v Godotu pro 
 
 Chytej pytle do tašky ve čtyřech pozicích. Pytel s dolary přidá 1 bod, vzácnější kontraband 5 bodů. Za každý nezachycený pytel ztratíš jeden ze tří životů. S rostoucím skóre přibývají předměty z různých drah a zrychluje tempo.
 
+![GTA 6 – Elektronika: herní prostředí retro LCD hry](docs/images/game.png)
+
 ## Spuštění
 
 **[Stáhnout Windows x64 verzi v1.0.0](https://github.com/matrixgp/GTA6_Retro_LCD/releases/latest)** – rozbal ZIP a spusť EXE.
